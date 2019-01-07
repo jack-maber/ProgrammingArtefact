@@ -1,0 +1,4657 @@
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+A
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+B
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+Y
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+X
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Right Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Left Bumper
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Up
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Left
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
+Down
