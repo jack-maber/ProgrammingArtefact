@@ -1,0 +1,721 @@
+Light Kick
+Right
+Right
+Up
+Up
+Light Kick
+Light Kick
+Right
+Medium Kick
+Light Kick
+Medium Kick
+Medium Kick
+Light Kick
+Medium Kick
+Right
+Right
+Heavy Kick
+Right
+Medium Kick
+Right
+Heavy Kick
+Right
+Heavy Kick
+Right
+Right
+Heavy Kick
+Right
+Heavy Kick
+Right
+Medium Kick
+Right
+Right
+Heavy Kick
+Right
+Medium Kick
+Right
+Heavy Kick
+Right
+Right
+Medium Kick
+Right
+Medium Punch
+Right
+Medium Punch
+Heavy Punch
+Right
+Medium Punch
+Heavy Punch
+Right
+Medium Punch
+Heavy Punch
+Right
+Medium Punch
+Heavy Punch
+Right
+Light Punch
+Medium Punch
+Heavy Kick
+Right
+Right
+Right
+Right
+Medium Kick
+Right
+Medium Kick
+Left
+Left
+Left
+Left
+Up
+Right
+Medium Kick
+Right
+Medium Kick
+Heavy Kick
+Right
+Heavy Kick
+Right
+Medium Kick
+Right
+Right
+Right
+Right
+Right
+Heavy Kick
+Right
+Medium Kick
+Up
+Right
+Right
+Up
+Right
+Up
+Right
+Up
+Right
+Medium Kick
+Left
+Medium Kick
+Left
+Medium Kick
+Right
+Heavy Kick
+Right
+Medium Kick
+Medium Kick
+Medium Kick
+Right
+Right
+Medium Kick
+Heavy Kick
+Right
+Heavy Kick
+Right
+Medium Kick
+Heavy Kick
+Right
+Right
+Medium Punch
+Medium Kick
+Right
+Medium Punch
+Heavy Punch
+Right
+Light Punch
+Medium Punch
+Heavy Punch
+Right
+Heavy Punch
+Right
+Heavy Punch
+Right
+Right
+Right
+Right
+Heavy Kick
+Right
+Heavy Kick
+Right
+Medium Kick
+Heavy Kick
+Right
+Medium Punch
+Right
+Light Punch
+Medium Punch
+Right
+Right
+Right
+Right
+Medium Punch
+Up
+Medium Kick
+Heavy Kick
+Left
+Down
+Medium Kick
+Up
+Medium Kick
+Up
+Right
+Down
+Left
+Left
+Left
+Left
+Medium Kick
+Left
+Medium Kick
+Left
+Medium Kick
+Heavy Kick
+Up
+Light Kick
+Right
+Down
+Down
+Light Kick
+Medium Kick
+Left
+Medium Kick
+Left
+Light Kick
+Light Punch
+Medium Kick
+Light Kick
+Right
+Down
+Medium Kick
+Right
+Medium Kick
+Right
+Up
+Light Kick
+Medium Kick
+Up
+Light Kick
+Down
+Left
+Left
+Left
+Light Kick
+Medium Kick
+Up
+Medium Kick
+Left
+Up
+Down
+Left
+Light Kick
+Left
+Left
+Light Kick
+Medium Kick
+Medium Kick
+Light Kick
+Up
+Light Kick
+Medium Kick
+Left
+Light Kick
+Up
+Light Kick
+Medium Kick
+Right
+Medium Kick
+Right
+Light Kick
+Right
+Medium Kick
+Right
+Light Kick
+Right
+Up
+Medium Kick
+Right
+Medium Kick
+Up
+Light Kick
+Up
+Up
+Up
+Heavy Kick
+Medium Kick
+Left
+Up
+Heavy Kick
+Up
+Heavy Kick
+Medium Kick
+Left
+Up
+Right
+Medium Kick
+Up
+Right
+Heavy Kick
+Right
+Heavy Kick
+Right
+Heavy Kick
+Right
+Heavy Kick
+Right
+Medium Punch
+Heavy Kick
+Up
+Right
+Light Punch
+Medium Punch
+Heavy Punch
+Up
+Right
+Medium Punch
+Right
+Medium Punch
+Heavy Punch
+Up
+Right
+Heavy Kick
+Right
+Heavy Kick
+Right
+Heavy Kick
+Up
+Right
+Right
+Heavy Kick
+Heavy Punch
+Up
+Right
+Heavy Punch
+Up
+Heavy Punch
+Up
+Right
+Heavy Punch
+Right
+Heavy Kick
+Left
+Heavy Kick
+Left
+Heavy Kick
+Left
+Heavy Kick
+Left
+Heavy Kick
+Left
+Left
+Left
+Medium Kick
+Left
+Left
+Left
+Up
+Up
+Left
+Heavy Kick
+Right
+Down
+Right
+Medium Kick
+Medium Kick
+Right
+Right
+Medium Kick
+Heavy Kick
+Right
+Right
+Up
+Right
+Up
+Right
+Medium Kick
+Right
+Medium Kick
+Heavy Kick
+Right
+Medium Kick
+Heavy Kick
+Right
+Medium Punch
+Medium Kick
+Heavy Punch
+Right
+Light Punch
+Heavy Punch
+Right
+Medium Punch
+Left
+Light Punch
+Left
+Medium Punch
+Left
+Medium Kick
+Left
+Light Kick
+Medium Kick
+Left
+Light Kick
+Left
+Light Punch
+Left
+Light Punch
+Left
+Light Punch
+Heavy Kick
+Left
+Heavy Punch
+Left
+Left
+Heavy Punch
+Left
+Heavy Punch
+Left
+Left
+Left
+Left
+Left
+Left
+Heavy Kick
+Left
+Heavy Kick
+Left
+Heavy Kick
+Up
+Heavy Kick
+Left
+Medium Kick
+Left
+Medium Kick
+Left
+Medium Kick
+Left
+Medium Kick
+Left
+Left
+Left
+Left
+Left
+Left
+Light Kick
+Left
+Left
+Left
+Light Kick
+Left
+Light Kick
+Left
+Left
+Medium Kick
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Up
+Medium Kick
+Left
+Up
+Left
+Medium Kick
+Left
+Medium Kick
+Up
+Up
+Light Kick
+Medium Kick
+Left
+Light Kick
+Medium Kick
+Left
+Left
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Light Kick
+Right
+Right
+Right
+Right
+Medium Kick
+Heavy Kick
+Up
+Medium Kick
+Up
+Right
+Right
+Down
+Up
+Right
+Medium Kick
+Heavy Kick
+Right
+Heavy Kick
+Left
+Medium Kick
+Left
+Left
+Light Kick
+Medium Kick
+Left
+Medium Kick
+Heavy Kick
+Left
+Light Punch
+Left
+Light Punch
+Heavy Punch
+Left
+Heavy Punch
+Left
+Light Punch
+Left
+Light Punch
+Medium Punch
+Heavy Punch
+Left
+Medium Punch
+Light Punch
+Medium Punch
+Left
+Up
+Left
+Left
+Up
+Light Punch
+Left
+Medium Punch
+Left
+Medium Punch
+Left
+Light Punch
+Left
+Light Punch
+Left
+Light Kick
+Medium Kick
+Left
+Light Kick
+Left
+Left
+Left
+Left
+Up
+Light Kick
+Light Punch
+Up
+Light Punch
+Medium Punch
+Heavy Kick
+Medium Punch
+Medium Punch
+Down
+Medium Punch
+Left
+Down
+Light Punch
+Medium Kick
+Left
+Light Kick
+Light Punch
+Medium Kick
+Left
+Light Kick
+Light Punch
+Medium Punch
+Left
+Light Punch
+Medium Punch
+Heavy Kick
+Left
+Light Punch
+Left
+Light Punch
+Left
+Light Punch
+Left
+Medium Punch
+Left
+Up
+Medium Punch
+Left
+Left
+Medium Punch
+Right
+Medium Punch
+Right
+Medium Punch
+Right
+Medium Punch
+Right
+Right
+Medium Punch
+Right
+Medium Punch
+Right
+Medium Punch
+Right
+Right
+Right
+Right
+Up
+Up
+Light Punch
+Medium Punch
+Up
+Right
+Right
+Right
+Right
+Right
+Right
+Right
+Up
+Up
+Right
+Light Punch
+Right
+Light Punch
+Right
+Light Punch
+Right
+Right
+Light Punch
+Up
+Right
+Light Punch
+Up
+Light Punch
+Up
+Light Punch
+Left
+Left
+Left
+Left
+Right
+Right
+Down
+Light Punch
+Right
+Heavy Kick
+Right
+Light Punch
+Heavy Kick
+Up
+Right
+Light Punch
+Medium Punch
+Heavy Kick
+Left
+Light Punch
+Left
+Light Punch
+Left
+Light Punch
+Left
+Left
+Left
+Left
+Left
+Left
+Left
+Light Kick
+Left
+Light Kick
+Left
+Light Kick
+Left
+Left
+Left
+Left
+Light Kick
+Right
+Right
+Right
+Light Kick
+Right
+Light Kick
+Right
+Right
+Right
+Right
+Medium Kick
+Right
+Medium Kick
+Right
+Heavy Kick
+Right
+Heavy Kick
+Heavy Punch
+Right
+Light Kick
+Medium Punch
+Heavy Kick
+Up
+Right
+Medium Kick
+Medium Kick
+Medium Kick
+Right
+Right
+Right
+Heavy Kick
+Right
+Medium Kick
+Heavy Kick
+Heavy Punch
+Right
+Right
+Right
+Right
+Heavy Kick
+Right
+Medium Kick
+Heavy Kick
+Right
+Right
+Medium Punch
+Up
+Right
+Heavy Punch
+Right
+Medium Punch
+Left
+Medium Punch
+Left
+Left
+Left
+Medium Punch
+Left
+Left
+Left
+Left
+Left
+Medium Punch
+Left
+Medium Punch
+Left
+Left

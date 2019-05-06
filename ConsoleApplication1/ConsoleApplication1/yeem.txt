@@ -1,38 +1,70 @@
+Right
+Left
+Right
+Left
 Down
+Up
+Down
+Up
+Left
 Down
 Up
 Up
 Up
+Up
+Up
+Up
+Up
+Right
+Down
+Down
+Left
 Down
 Down
 Down
+Right
+Right
 Down
-Heavy Kick
-Heavy Kick
-Heavy Kick
-Heavy Kick
-Medium Kick
-Medium Kick
-Medium Kick
-Medium Kick
-Medium Kick
+Right
+Down
+Up
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Down
+Right
+Right
+Up
+Left
+Left
+Left
+Light Punch
+Medium Punch
+Light Kick
 Medium Kick
 Medium Punch
-Medium Punch
-Medium Punch
+Light Punch
+Light Kick
+Medium Kick
 Medium Punch
 Light Punch
 Light Punch
 Light Punch
+Medium Punch
+Medium Kick
 Light Kick
 Light Kick
 Light Kick
+Light Kick
+Light Punch
+Light Punch
+Medium Punch
 Medium Kick
-Medium Kick
-Medium Kick
-Medium Kick
-Medium Kick
-Medium Kick
-Medium Kick
-Medium Kick
-Medium Kick
+Heavy Punch
+Heavy Kick
+Heavy Punch
